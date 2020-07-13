@@ -5,7 +5,7 @@
 
     1. 3개월간의 수업 자료 및 필기
     
-    2. 실습
+    2. 실습ppt
     
         1. default of credit card clients 예측
     
