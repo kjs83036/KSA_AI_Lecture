@@ -14,3 +14,7 @@
         3. 노래 추천(cb+cf)
 
         4. 노래 가사 생성(양방향lstm)
+![image](https://user-images.githubusercontent.com/26050767/87267806-a6121c80-c503-11ea-8950-f9da1de26a16.png)
+![image](https://user-images.githubusercontent.com/26050767/87267814-ac07fd80-c503-11ea-875a-59d363d11bd4.png)
+![image](https://user-images.githubusercontent.com/26050767/87267848-c5a94500-c503-11ea-98e3-970229208d3a.png)
+![image](https://user-images.githubusercontent.com/26050767/87267865-d063da00-c503-11ea-88bb-6a4318737204.png)
